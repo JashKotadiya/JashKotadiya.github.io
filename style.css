@@ -58,6 +58,7 @@ body {
   height: 170px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: top; 
   margin-bottom: 1rem;
   border: 3px solid #fff;
 }
